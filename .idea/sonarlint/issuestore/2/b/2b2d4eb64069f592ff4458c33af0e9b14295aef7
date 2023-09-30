@@ -1,0 +1,25 @@
+
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÈ¤Úûÿÿÿÿ8»¥ö‰®1
+{
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÈ¤Úûÿÿÿÿ8¼¥ö‰®1
+{
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÈ¤Úûÿÿÿÿ8¼¥ö‰®1
+7
+java:S1220""Move this file to a named package.8¨‚ì‰®1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘øŠÖ8Ú¥ö‰®1
+L	java:S106"+Replace this use of System.out by a logger.(Â½ÉÍûÿÿÿÿ8İ¥ö‰®1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹³¸Ê8Û¥ö‰®1
+L	java:S106"+Replace this use of System.out by a logger.(Ô–ªÎüÿÿÿÿ8à¥ö‰®1
+L	java:S106"+Replace this use of System.out by a logger.(ãŞµÏıÿÿÿÿ8ˆïö‰®1
+g
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(ºª‘Ôıÿÿÿÿ8ß¥ö‰®1
+G	java:S106#"+Replace this use of System.out by a logger.(£®¦8èîú‰®1
+g
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(¾ÖÑêûÿÿÿÿ8â¥ö‰®1
+L	java:S1061"+Replace this use of System.out by a logger.(Û¬ñĞÿÿÿÿÿ8éîú‰®1
+b
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(«÷ˆã8ä¥ö‰®1
+L	java:S106B"+Replace this use of System.out by a logger.(øÎÁ’üÿÿÿÿ8êîú‰®1
